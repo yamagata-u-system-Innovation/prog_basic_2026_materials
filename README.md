@@ -20,5 +20,6 @@
 | --- | --- | --- |
 | 第2回 | 10/9 | [week02](week02/) — `hello.py`、課題A02 |
 | 第3回 | 10/16 | [week03](week03/) — 基本構造の例題6本、[フローチャート集](week03/flowchart.md)、課題A03 |
+| 第4回 | 10/23 | [week04](week04/) — 計算・変数・出力の例題6本（[examples](week04/examples/)）、練習①〜③（[practice](week04/practice/)）、課題A04 |
 
 （以降の回は、講義の前に追加します。）
