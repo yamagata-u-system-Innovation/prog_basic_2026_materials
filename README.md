@@ -22,5 +22,6 @@
 | 第3回 | 10/16 | [week03](week03/) — 基本構造の例題6本、[フローチャート集](week03/flowchart.md)、課題A03 |
 | 第4回 | 10/23 | [week04](week04/) — 計算・変数・出力の例題6本（[examples](week04/examples/)）、練習①〜③（[practice](week04/practice/)）、課題A04 |
 | 第5回 | 10/30 | [week05](week05/) — 条件分岐（if）の例題8本（[examples](week05/examples/)）、練習①〜③（[practice](week05/practice/)）、課題A05（[judge.py](week05/judge.py) のひな形、[answer.md](week05/answer.md) の記入様式） |
+| 第6回 | 11/6（オンデマンド） | [week06](week06/) — 繰り返し（for）の例題8本（[examples](week06/examples/)）、練習①〜③（[practice](week06/practice/)）、課題A06（[count.py](week06/count.py) のひな形、[answer.md](week06/answer.md) の記入様式） |
 
 （以降の回は、講義の前に追加します。）
